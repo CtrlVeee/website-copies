@@ -18,6 +18,12 @@
 
 .col--right{
     width: 68%;
+    padding-left: 54px;
+}
+
+.col--right h1 {
+    font-weight: 640;
+    font-size: 36px;
 }
 
 .row {
@@ -62,6 +68,9 @@
 }
 #hashtag:hover {
     color: #164bc5;
+}
+.note {
+    color:#7b7b7b;
 }
 .description {
     vertical-align: bottom;
