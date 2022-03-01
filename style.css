@@ -55,8 +55,13 @@
     color: #164bc5;
 }
 #hashtag {
-    font-weight: 570;
+    color:black;
+    font-size: 16px;
+    font-weight: 720;
     text-decoration: underline;
+}
+#hashtag:hover {
+    color: #164bc5;
 }
 .description {
     vertical-align: bottom;
