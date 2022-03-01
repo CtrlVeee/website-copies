@@ -46,7 +46,14 @@
 
     margin-bottom: 15px;
 }
+.self {
+    font-weight: 570;
+}
+#self--link {
+    color: #164bc5;
+}
 
-#id {
-    font-weight: bold;
+.description {
+    font-size: ;
+    color: #7b7b7b;
 }
