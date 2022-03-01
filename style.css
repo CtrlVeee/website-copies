@@ -7,15 +7,17 @@
 .col {
     background-color: white;
     padding: 18px;
+    padding-top: 0px;
+    margin-top: 18px;
 }
 
 .col--left {
-    width: 30%;
-    border-right: 2px solid #f0f0f0;
+    width: 32%;
+    border-right: 1.6px solid #f0f0f0;
 }
 
 .col--right{
-    width: 70%;
+    width: 68%;
 }
 
 .row {
@@ -52,12 +54,16 @@
 #self--link {
     color: #164bc5;
 }
+#hashtag {
+    font-weight: 570;
+    text-decoration: underline;
+}
 .description {
-    background-color: #f0f0f0;
+    vertical-align: bottom;
     height: 180px;
 }
 .description p{
     font-size: 16px;
     color: #7b7b7b;
-    
+    line-height: 27px;
 }
