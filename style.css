@@ -52,8 +52,12 @@
 #self--link {
     color: #164bc5;
 }
-
 .description {
-    font-size: ;
+    background-color: #f0f0f0;
+    height: 180px;
+}
+.description p{
+    font-size: 16px;
     color: #7b7b7b;
+    
 }
