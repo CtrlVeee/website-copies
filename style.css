@@ -3,8 +3,23 @@
     font-size: 18px;
     font-family: Segoe UI;
 }
+
+.col {
+    background-color: white;
+    padding: 18px;
+}
+
+.col--left {
+    width: 30%;
+    border-right: 2px solid #f0f0f0;
+}
+
+.col--right{
+    width: 70%;
+}
+
 .row {
-    max-width: 1050px;
+    max-width: 1100px;
     margin: 0 auto;
     display: flex;
 }
@@ -15,15 +30,15 @@
 }
 
 .profile--img {
-    width: 450px;
+    width: 420px;
     margin: -45px 0 0 -120px;
 }
 
 .profile {
     position: relative;
     box-sizing: content-box;
-    width: 80px;
-    height: 80px;
+    width: 72px;
+    height: 72px;
     border: 2px solid black;
     border-radius: 100%; 
     overflow: hidden;
