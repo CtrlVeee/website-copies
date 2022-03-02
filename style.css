@@ -19,6 +19,7 @@
 .col--right{
     width: 68%;
     padding-left: 54px;
+    padding-right: 40px;
 }
 
 .col--right h1 {
@@ -168,8 +169,10 @@ a:hover {
 
 .col--right p {
     font-size: 16px;
+    margin-bottom: 32px;
 }
 
 .bolden {
+    font-size: 16px;
     font-weight: 650;
 }
