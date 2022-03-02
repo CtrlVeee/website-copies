@@ -128,3 +128,33 @@ a:hover {
 .nav-horizontal i:hover {
     color: #164bc5;
 }
+
+.email {
+    margin-top: 36px;
+    text-align: center;
+}
+
+.email p {
+    font-size: 16px;
+}
+
+.email input{
+    width: 100%;
+    text-align: center;
+    border: 1.6px solid #dfdfdf;
+    color: #7b7b7b;
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 9px;
+}
+
+.email button {
+    margin-top: 12px;
+    width: 100%;
+    border: 0;
+    background-color: #2892da;
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 9px;
+}
