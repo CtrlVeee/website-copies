@@ -132,6 +132,7 @@ a:hover {
 .email {
     margin-top: 36px;
     text-align: center;
+    margin-bottom: 40px;
 }
 
 .email p {
@@ -157,4 +158,18 @@ a:hover {
     font-size: 15px;
     padding: 10px;
     border-radius: 9px;
+}
+
+#credits {
+    text-align: center;
+    font-size: 14px;
+    color: #7b7b7b;
+}
+
+.col--right p {
+    font-size: 16px;
+}
+
+.bolden {
+    font-weight: 650;
 }
