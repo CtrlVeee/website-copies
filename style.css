@@ -110,3 +110,9 @@ a:hover {
     color: #164bc5;
     text-decoration: underline;
 }
+
+.nav-horizontal a {
+    padding: 5px;
+    border: 1.6px solid #bbbbbb;
+    border-radius: 100%;
+}
