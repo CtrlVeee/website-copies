@@ -48,7 +48,6 @@
     width: 72px;
     height: 72px;
 
-    border: 2px solid black;
     border-radius: 100%; 
     overflow: hidden;
 
@@ -81,4 +80,33 @@
     color: #7b7b7b;
     line-height: 27px;
     margin-bottom: 24px;
+}
+
+.nav-vertical {
+    position: relative;
+    left: -40px;
+    overflow: hidden;
+}
+
+.nav-vertical_li {
+    display: block;
+    list-style-type: none;
+    padding: 15px;
+    padding-left: 0px;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.nav-vertical_li:first-of-type {
+    padding-top: 0px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #164bc5;
+    text-decoration: underline;
 }
