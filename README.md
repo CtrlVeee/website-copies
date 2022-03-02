@@ -1,4 +1,4 @@
 # website-copies
  an attempt to recreate various web designs
 
-see [a relative link](website-copies/index.html) - 
+see [index.html](website-copies/index.html) - copy of https://leonnoel.com/100devs/
