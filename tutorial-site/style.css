@@ -44,6 +44,10 @@ nav ul li {
     flex-direction: column;
 }
 
+nav ul li:nth-child(2) div.content {
+    width: calc(90% + 3px)
+}
+
 nav ul li a {
     color: ivory;
     font-weight: 670;
